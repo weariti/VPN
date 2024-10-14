@@ -1,6 +1,7 @@
 # ВПН за 5 минут на любое устройство
 Все наши сервера имеют пропускную способность до 10 Гбит/сек (но не менее 1 Гбит/сек)​
 
+
 • Лучшие локации - самые популярные страны
 
 • Низкие цены - чем дольше аренда, тем ниже цена
@@ -15,12 +16,15 @@
 
 ### Оплатить можно через:
 CrystalPay (карты, СБП, крипта, лолзтим...),
+
 Apays (карты ру/укр, СБП),
+
 Kриптобот​
 
 
 ### Правила
 • Наши впн/прокси НЕ ПОДХОДЯТ под черные темы
+
 • Все покупки осуществляются только через бота
 
 
@@ -31,20 +35,29 @@ Kриптобот​
 # VPN in 5 minutes for any device
 All our servers have a bandwidth of up to 10 Gbps (but not less than 1 Gbps)
 
+
 • The best locations are the most popular countries
+
 • Low prices - the longer the rental, the lower the price
+
 • Unlimited - no traffic restrictions at all locations
+
 • Fast connection - VPN setup takes a couple of minutes
+
 • All services work - YouTube, OpenAI, Spotify, SoundCloud, Instagram, Twitter, Supercell, etc.
+
 • Any device - Windows, Android, iOS, macOS
 
 ### You can pay via:
 CrystalPay (cards, SBP, crypto, lolztim...),
+
 Apays (ru/ukr cards, SBP),
+
 Cryptobot
 
 ### Rules
 • Our VPN/proxy are NOT SUITABLE under black themes
+
 • All purchases are made only through the bot
 
 ### Buy in the Bot - https://t.me/TrustWaveBot
